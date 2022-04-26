@@ -37,18 +37,5 @@ namespace PersonAPI.Repo
                 );
         }
 
-       /** Person p1 = new Person()
-        {
-            GID = Guid.NewGuid(),
-            FirstName = "Masha",
-            LastName = "Ivanova"
-        };
-
-        Person p2 = new Person()
-        {
-            GID = Guid.NewGuid(),
-            FirstName = "Ivan",
-            LastName = "Ivanov"
-        };**/
     }
 }
